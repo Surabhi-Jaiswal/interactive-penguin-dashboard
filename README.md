@@ -1,4 +1,3 @@
-```markdown
 # 🐧 Penguin Data Visualization Dashboard
 
 Interactive Dashboard built with Python, Plotly Dash & Pandas
